@@ -23,7 +23,8 @@ plt.title('Count of customers by Gender')
 plt.xlabel('Gender')
 plt.ylabel('Count')
 plt.grid(True)
-plt.show() ```
+plt.show()
+```
 
 # V2
 ```py
